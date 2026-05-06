@@ -30,12 +30,14 @@ Sistema de gestão de ativos desenvolvido em **PHP** utilizando o padrão **MVC*
 ---
 
 ### 📊 Minhas Estatísticas
-<!-- Copie e cole este link no lugar do anterior -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LongFire788&theme=dracula" alt="Streak Stats" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LongFire788&theme=radical&column=7&margin-w=15&no-bg=true" alt="Troféus do GitHub" />
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LongFire788&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
 </p>
 
 ---
