@@ -30,18 +30,8 @@ Sistema de gestão de ativos desenvolvido em **PHP** utilizando o padrão **MVC*
 ---
 
 ### 📊 Minhas Estatísticas
-<p align="center">
-  <!-- Status do Perfil -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LongFire788&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" alt="Estatísticas de LongFire788" />
-  
-  <!-- Linguagens Mais Usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongFire788&layout=compact&langs_count=7&theme=visual_studio_code" alt="Linguagens mais usadas por LongFire788" />
-</p>
-
-<!-- Seção de Troféus (Opcional - dá um visual bem legal) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LongFire788&theme=radical&column=7&margin-w=15&no-bg=true" alt="Troféus do GitHub" />
-</p>
+<!-- Copie e cole este link no lugar do anterior -->
+https://github-readme-stats-eight-theta.vercel.app/api?username=LongFire788&show_icons=true&theme=dracula
 
 ---
 
