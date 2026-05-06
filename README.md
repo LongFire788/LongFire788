@@ -31,7 +31,9 @@ Sistema de gestão de ativos desenvolvido em **PHP** utilizando o padrão **MVC*
 
 ### 📊 Minhas Estatísticas
 <!-- Copie e cole este link no lugar do anterior -->
-https://github-readme-stats-eight-theta.vercel.app/api?username=LongFire788&show_icons=true&theme=dracula
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LongFire788&theme=dracula" alt="Streak Stats" />
+</p>
 
 ---
 
